@@ -1,11 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//�����о�������΢Ц�洦��ࡣ��дһ�������������¸�ʽ�������
+//许多研究表明，微笑益处多多。编写一个程序，生成以下格式的输出：
 /*
 Smile!Smile!Smile!
 Smile!Smile!
 Smile!
 */
-//�ó�����Ҫ����һ���������ú���������һ�δ�ӡһ�Ρ�Smile!�������ݳ������Ҫʹ�øú�����
+//该程序需要定义一个函数，该函数被调用一次打印一次“Smile!”，根据程序的需要使用该函数。
 
 #include <stdio.h>
 
