@@ -1,14 +1,14 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//±àÐ´Ò»¸ö³ÌÐò£¬Éú³ÉÒÔÏÂÊä³ö£º
+//ç¼–å†™ä¸€ä¸ªç¨‹åºï¼Œç”Ÿæˆä»¥ä¸‹è¾“å‡ºï¼š
 /*
 For he is a jolly good fellow!
 For he is a jolly good fellow!
 For he is a jolly good fellow!
 Which nobody can deny!
 */
-//³ýÁËmain()º¯ÊýÒÔÍâ£¬¸Ã³ÌÐò»¹Òªµ÷ÓÃÁ½¸ö×Ô¶¨Òåº¯Êý£º
-//Ò»¸öÃûÎªjolly()£¬ÓÃÓÚ´òÓ¡Ç°ÈýÌõÏûÏ¢£¬µ÷ÓÃÒ»´Î´òÓ¡Ò»Ìõ£»
-//ÁíÒ»¸öº¯ÊýÃûÎªdeny()£¬´òÓ¡×îºóÒ»ÌõÏûÏ¢¡£
+//é™¤äº†main()å‡½æ•°ä»¥å¤–ï¼Œè¯¥ç¨‹åºè¿˜è¦è°ƒç”¨ä¸¤ä¸ªè‡ªå®šä¹‰å‡½æ•°ï¼š
+//ä¸€ä¸ªåä¸ºjolly()ï¼Œç”¨äºŽæ‰“å°å‰ä¸‰æ¡æ¶ˆæ¯ï¼Œè°ƒç”¨ä¸€æ¬¡æ‰“å°ä¸€æ¡ï¼›
+//å¦ä¸€ä¸ªå‡½æ•°åä¸ºdeny()ï¼Œæ‰“å°æœ€åŽä¸€æ¡æ¶ˆæ¯ã€‚
 
 #include <stdio.h>
 
