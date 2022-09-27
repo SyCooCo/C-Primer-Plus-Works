@@ -1,14 +1,14 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//±àÐ´Ò»¶Î³ÌÐò£¬Éú³ÉÒÔÏÂÊä³ö£º
+//ç¼–å†™ä¸€æ®µç¨‹åºï¼Œç”Ÿæˆä»¥ä¸‹è¾“å‡ºï¼š
 /*
 Brazil, Russia, India, China
 India, China,
 Brazil, Russia
 */
-//³ýÁËmain()º¯ÊýÒÔÍâ£¬¸Ã³ÌÐò»¹Òªµ÷ÓÃÁ½¸ö×Ô¶¨Òåº¯Êý£º
-//Ò»¸öÃûÎªbr()£¬µ÷ÓÃÒ»´ÎÔò´òÓ¡Ò»´Î¡°Brazil, Russia¡±£»
-//ÁíÒ»¸öÃûÎªic()£¬µ÷ÓÃÒ»´Î´òÓ¡Ò»´Î¡°India, China¡±£»
-//ÆäËûÄÚÈÝÔÚmain()º¯ÊýÖÐÍê³É¡£
+//é™¤äº†main()å‡½æ•°ä»¥å¤–ï¼Œè¯¥ç¨‹åºè¿˜è¦è°ƒç”¨ä¸¤ä¸ªè‡ªå®šä¹‰å‡½æ•°ï¼š
+//ä¸€ä¸ªåä¸ºbr()ï¼Œè°ƒç”¨ä¸€æ¬¡åˆ™æ‰“å°ä¸€æ¬¡â€œBrazil, Russiaâ€ï¼›
+//å¦ä¸€ä¸ªåä¸ºic()ï¼Œè°ƒç”¨ä¸€æ¬¡æ‰“å°ä¸€æ¬¡â€œIndia, Chinaâ€ï¼›
+//å…¶ä»–å†…å®¹åœ¨main()å‡½æ•°ä¸­å®Œæˆã€‚
 
 #include <stdio.h>
 
