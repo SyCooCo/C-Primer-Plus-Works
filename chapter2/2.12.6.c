@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//±àÐ´Ò»¸ö³ÌÐò£¬´´½¨Ò»¸öÕûÐÍ±äÁ¿toes£¬²¢½«toesÉèÎª10.
-//³ÌÐòÖÐ»¹Òª¼ÆËãtoesµÄÁ½±¶ºÍtoesµÄÆ½·½¡£
-//¸Ã³ÌÐòÓ¦´òÓ¡Èý¸öÖµ£¬²¢·Ö±ðÃèÊöÒÔÊ¾Çø·Ö¡£
+//ç¼–å†™ä¸€ä¸ªç¨‹åºï¼Œåˆ›å»ºä¸€ä¸ªæ•´åž‹å˜é‡toesï¼Œå¹¶å°†toesè®¾ä¸º10.
+//ç¨‹åºä¸­è¿˜è¦è®¡ç®—toesçš„ä¸¤å€å’Œtoesçš„å¹³æ–¹ã€‚
+//è¯¥ç¨‹åºåº”æ‰“å°ä¸‰ä¸ªå€¼ï¼Œå¹¶åˆ†åˆ«æè¿°ä»¥ç¤ºåŒºåˆ†ã€‚
 
 #include <stdio.h>
 
