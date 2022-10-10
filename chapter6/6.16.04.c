@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//ʹ��Ƕ��ѭ����������ĸ�ʽ��ӡ��ĸ��
+//使用嵌套循环，按下面的格式打印字母：
 /*
 A
 BC
@@ -8,7 +8,7 @@ GHIJ
 KLMNO
 PQRSTU
 */
-//������ϵͳ��ʹ��������˳�����Ĵ��룬�������ϰ3�ķ��������
+//如果你的系统不使用以数字顺序编码的代码，请参照练习3的方案解决。
 
 #include <stdio.h>
 
