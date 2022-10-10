@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//ʹ��Ƕ��ѭ����������ĸ�ʽ��ӡ��ĸ��
+//使用嵌套循环，用下面的格式打印字母：
 /*
 F
 FE
@@ -8,10 +8,10 @@ FEDC
 FEDCB
 FEDCBA
 */
-//ע�⣺������ϵͳ��ʹ��ASCII������������˳�����Ĵ��룬
-//���԰��ַ������ʼ��Ϊ��ĸ���е���ĸ��
+//注意：如果你的系统不使用ASCII或其他以数字顺序编码的代码，
+//可以把字符数组初始化为字母表中的字母：
 /* char lets[27] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; */
-//Ȼ��ʹ�������±�ѡ�񵥶�����ĸ������ lets[0] ��'A'���ȵȡ�
+//然后使用数组下标选择单独的字母，例如 lets[0] 是'A'，等等。
 
 #include <stdio.h>
 
